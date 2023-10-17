@@ -1,4 +1,4 @@
-// cambio para el repositorio remoto
+// comentario para github
 #include "CodCliente.cpp"
 #include <iostream>
 using namespace std;
